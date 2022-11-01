@@ -1,0 +1,46 @@
+body {
+   
+  background: gainsboro;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  
+}
+
+.flex-container {  
+  display: flex;
+  justify-content: center; 
+  margin-top: 200px; 
+   
+}
+
+table{ 
+ 
+  background-color: rgb(78, 4, 148);
+}
+
+tr {
+  background-color: rgb(78, 4, 148);
+  color: white;
+}
+
+td {
+  background-color: #f5007a;
+  padding: 10px;
+}
+footer {
+  position: absolute;  
+  text-align: center;
+  bottom: 0; 
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  width: 100%;
+    
+}
+.circular-square {
+  width: 80px;
+  height: 100%;
+  border-radius: 50%;
+  box-shadow: 0 0 10px 0 rgb(185, 185, 185);   
+  border: 4px rgb(230, 230, 230) solid;
+  margin-top: 20px;
+}
