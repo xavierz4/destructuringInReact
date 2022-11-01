@@ -7,7 +7,7 @@ export const DesingBy = () => {
       <h3>
         Github:
         <a
-          href="https://github.com/xavierz4/destructurinInReact"
+          href="https://github.com/xavierz4/destructuringInReact"
           target="_blank"
         >
           Destructuring in Github.
